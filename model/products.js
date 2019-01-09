@@ -8,12 +8,11 @@ const productsSchema = mongoose.Schema({
 	},
 	price:{
 		type:Number,
-		require: true
+		require: true/
 		
 	}
 
 });
-
 
 
 
